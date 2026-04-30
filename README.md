@@ -33,8 +33,7 @@ Google Fonts – Typography (Playfair Display, DM Sans)
 
 Run the application locally:
 
-👉 [View Source Code](https://github.com/pulseproi/Multipage_Porfolioapp)
-
+ [Click here to view my portfolio](https://pulseproi.github.io/Multipage_Porfolioapp/)
 
 pip install streamlit
 streamlit run app.py
